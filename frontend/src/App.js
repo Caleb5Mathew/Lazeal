@@ -5,7 +5,6 @@ import '../src/designs/applayout';
 //import applayout from "/designs/applayout.html";
 // import 'C:\Users\ezekm\OneDrive\Pictures\Coding'
 import '../src/'
-import 'file:///C:/Users/ezekm/OneDrive/Pictures/Randos/appa.jpg'
 
 
 const App = () => {

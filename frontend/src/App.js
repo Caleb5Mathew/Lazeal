@@ -4,6 +4,8 @@ import '../src/designs/applayout';
 //import Layout from "./designs/applayout.js";
 //import applayout from "/designs/applayout.html";
 // import 'C:\Users\ezekm\OneDrive\Pictures\Coding'
+import 'C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.jpg'
+import '../src/images/'
 import '../src/'
 
 

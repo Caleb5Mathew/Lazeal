@@ -5,7 +5,6 @@ import '../src/designs/applayout';
 //import applayout from "/designs/applayout.html";
 // import 'C:\Users\ezekm\OneDrive\Pictures\Coding'
 import './images/headerpic.jpg'
-import '../src/images/'
 import '../src/'
 
 
@@ -17,13 +16,13 @@ const App = () => {
       <div className="headerbackdrop">
         <div className="outerheader">
           <div className = "headerbackdrop">
-            <img src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.jpg')} alt = "dang"
+            <img src = {require('./images/headerpic.jpg')} alt = "dang"
               className = "logo"
             />
               <div className = "outerheaderlogo">
                 <h1>
 
-                  <img  className="headerpicture" src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.jpg')}/>
+                  <img  className="headerpicture" src = {require('./images/headerpic.jpg')}/>
 
                 </h1>
               </div>

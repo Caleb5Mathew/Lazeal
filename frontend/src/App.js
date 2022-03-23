@@ -15,13 +15,13 @@ const App = () => {
       <div className="headerbackdrop">
         <div className="outerheader">
           <div className = "headerbackdrop">
-            <img src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.png')} alt = "dang"
+            <img src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.jpg')} alt = "dang"
               className = "logo"
             />
               <div className = "outerheaderlogo">
                 <h1>
 
-                  <img  className="headerpicture" src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.png')}/>
+                  <img  className="headerpicture" src = {require('C:/Users/ezekm/Desktop/Mern Test/frontend/src/images/headerpic.jpg')}/>
 
                 </h1>
               </div>
